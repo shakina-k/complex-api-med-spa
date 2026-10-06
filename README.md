@@ -9,5 +9,5 @@
 ## Zip Code API
 ## Weather API
 
-(/images/med-spa_web.png)
+
 
